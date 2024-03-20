@@ -1,7 +1,7 @@
 export default function Footer(){
     return(
         <footer>
-            <p>&copy; Desenvolvido por João Santos</p>
+            <center><p>&copy; Desenvolvido por João Santos</p></center>
         </footer>
     );
 }
