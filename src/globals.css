@@ -1,6 +1,10 @@
 header{ 
     height: 100px;
     background-color: aliceblue;
+
     
-    
+}
+
+body{
+    background-image: url("");
 }
